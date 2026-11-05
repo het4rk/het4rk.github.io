@@ -317,6 +317,91 @@ BT
 40 20 Td
 (PROJECTS) Tj
 ET
+BT
+/F2 11 Tf
+40 0 Td
+(Viazovska Fields Medal Sphere Packing Simulator) Tj
+ET
+BT
+/F3 10 Tf
+40 -15 Td
+(• Interactive animations and dashboard that make Maryna Viazovska's Fields Medal-winning sphere packing proof (E8 and) Tj
+ET
+BT
+/F3 10 Tf
+40 -30 Td
+(Leech lattices) tangible. github.com/het4rk/viazovska-fields-simulator) Tj
+ET
+BT
+/F2 11 Tf
+40 -50 Td
+(Ordowski's Conjecture on Squares Modulo n (OEIS A000224)) Tj
+ET
+BT
+/F3 10 Tf
+40 -65 Td
+(• AI-assisted partial proof of an open conjecture from Google DeepMind's formal-conjectures list, machine-verified in Lean 4) Tj
+ET
+BT
+/F3 10 Tf
+40 -80 Td
+(with a paper. github.com/het4rk/ordowski-a224) Tj
+ET
+BT
+/F2 11 Tf
+40 -100 Td
+(Machine-Verified Proofs of Open OEIS Conjectures) Tj
+ET
+BT
+/F3 10 Tf
+40 -115 Td
+(• Six more AI-assisted Lean 4 results with papers: Eldar-Ordowski (A007406) and conjectured formulas for A188866,) Tj
+ET
+BT
+/F3 10 Tf
+40 -130 Td
+(A245995, A246479, A246483, A246737. github.com/het4rk) Tj
+ET
+BT
+/F2 12 Tf
+40 -160 Td
+(EDUCATION AND CERTIFICATIONS) Tj
+ET
+BT
+/F3 10 Tf
+40 -180 Td
+(B.Sc. Computer Science and Business Administration, Rutgers University) Tj
+ET
+BT
+/F3 10 Tf
+400 -180 Td
+(2020 – May 2024) Tj
+ET
+BT
+/F3 10 Tf
+40 -200 Td
+(AWS Certified Cloud Practitioner; Microsoft Azure Fundamentals (AZ-900); Microsoft Azure AI Fundamentals (AI-900).) Tj
+ET
+BT
+/F2 12 Tf
+40 -230 Td
+(INTERESTS) Tj
+ET
+BT
+/F3 10 Tf
+40 -250 Td
+(Capital markets, market microstructure, derivatives, decentralized exchanges (particularly Hyperliquid), 24/7 trading) Tj
+ET
+BT
+/F3 10 Tf
+40 -265 Td
+(infrastructure, and real-world asset tokenization.) Tj
+ET
+BT
+/F3 10 Tf
+40 -280 Td
+(AI-assisted mathematical research, formal verification, and applications of AI in scientific discovery.) Tj
+ET
 endstream
 endobj
 xref

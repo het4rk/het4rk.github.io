@@ -1,5 +1,5 @@
 %PDF-1.4
-%     ReportLab Generated PDF document (opensource)
+%���� ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
 /F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 8 0 R
@@ -92,7 +92,8 @@ endobj
 <<
 /Annots [ 5 0 R 6 0 R 7 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R ] /Contents 19 0 R /MediaBox [ 0 0 612 792 ] /Parent 18 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
+>> /Rotate 0 
+  /Trans <<
 
 >> /Type /Page
 >>
@@ -104,7 +105,8 @@ endobj
 endobj
 17 0 obj
 <<
-/Author (Hetark Shah) /CreationDate (D:20261105180000) /Creator (ReportLab PDF Library) /Producer (ReportLab PDF Library) /Title (Hetark Shah Resume) /Subject (Resume)
+/Author (Hetark Shah) /CreationDate (D:20261028170245-04'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261028170245-04'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Hetark Shah Resume) /Trapped /False
 >>
 endobj
 18 0 obj
@@ -114,295 +116,10 @@ endobj
 endobj
 19 0 obj
 <<
-/Length 6505
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 3566
 >>
 stream
-BT
-/F2 18 Tf
-40 740 Td
-(Hetark Shah) Tj
-ET
-BT
-/F3 10 Tf
-40 720 Td
-(East Brunswick, NJ (NYC Metro Area)  •  732-762-9889  •  hetark9@gmail.com  •  linkedin.com/in/hetark  •  github.com/het4rk) Tj
-ET
-BT
-/F2 12 Tf
-40 690 Td
-(SUMMARY) Tj
-ET
-BT
-/F3 10 Tf
-40 670 Td
-(Client-facing Solutions Architect with experience implementing enterprise API products for Fortune 500 healthcare) Tj
-ET
-BT
-/F3 10 Tf
-40 655 Td
-(organizations. Specializes in customer discovery, translating business requirements into technical solutions, and coordinating) Tj
-ET
-BT
-/F3 10 Tf
-40 640 Td
-(delivery across engineering, product, and commercial teams. Computer Science and Business Administration background with a) Tj
-ET
-BT
-/F3 10 Tf
-40 625 Td
-(strong interest in capital markets and financial technology.) Tj
-ET
-BT
-/F2 12 Tf
-40 590 Td
-(SKILLS) Tj
-ET
-BT
-/F3 10 Tf
-40 570 Td
-(Client Engagement: Enterprise stakeholder management, technical discovery, solution demonstrations, requirements gathering,) Tj
-ET
-BT
-/F3 10 Tf
-40 555 Td
-(customer relationship management.) Tj
-ET
-BT
-/F3 10 Tf
-40 535 Td
-(Solution Delivery: Systems integration, solution architecture, enterprise implementations, workflow optimization,) Tj
-ET
-BT
-/F3 10 Tf
-40 520 Td
-(cross-functional coordination.) Tj
-ET
-BT
-/F3 10 Tf
-40 500 Td
-(Commercial: Account expansion, sales collaboration, customer adoption, business value alignment.) Tj
-ET
-BT
-/F3 10 Tf
-40 480 Td
-(Technologies: REST APIs, AWS, Microsoft Azure, generative AI, LLM workflows.) Tj
-ET
-BT
-/F2 12 Tf
-40 445 Td
-(EXPERIENCE) Tj
-ET
-BT
-/F2 11 Tf
-40 420 Td
-(Solutions Architect) Tj
-ET
-BT
-/F3 10 Tf
-400 420 Td
-(Aug 2024 – Present) Tj
-ET
-BT
-/F3 10 Tf
-40 405 Td
-(Cognizant, Healthcare Products (TriZetto)) Tj
-ET
-BT
-/F3 10 Tf
-40 385 Td
-(• Manage post-sales implementation across 10+ enterprise deployments at leading U.S. health insurers and provider) Tj
-ET
-BT
-/F3 10 Tf
-40 370 Td
-(organizations, from solution design through production go-live in regulated environments processing millions of transactions.) Tj
-ET
-BT
-/F3 10 Tf
-40 350 Td
-(• Serve as the direct technical point of contact for 15+ client accounts and ~30 client teams, leading discovery sessions, solution) Tj
-ET
-BT
-/F3 10 Tf
-40 335 Td
-(demonstrations, and stakeholder discussions that turn ambiguous requirements into clear solution designs.) Tj
-ET
-BT
-/F3 10 Tf
-40 315 Td
-(• Coordinate a dozen API integrations and dozens of workflows between healthcare platforms and client systems, aligning) Tj
-ET
-BT
-/F3 10 Tf
-40 300 Td
-(client, product, and engineering teams on requirements, data mapping, and go-live.) Tj
-ET
-BT
-/F3 10 Tf
-40 280 Td
-(• Develop AI-powered automations to streamline enterprise healthcare implementations, using open-source agents and LLMs) Tj
-ET
-BT
-/F3 10 Tf
-40 265 Td
-(within approved development and production environments.) Tj
-ET
-BT
-/F3 10 Tf
-40 245 Td
-(• Partner with sales and account teams to identify customer needs, uncover expansion opportunities, and communicate business) Tj
-ET
-BT
-/F3 10 Tf
-40 230 Td
-(value to client stakeholders.) Tj
-ET
-BT
-/F2 11 Tf
-40 200 Td
-(Software / ML Engineering Intern) Tj
-ET
-BT
-/F3 10 Tf
-400 200 Td
-(Jun 2023 – Aug 2023) Tj
-ET
-BT
-/F3 10 Tf
-40 185 Td
-(Cognizant) Tj
-ET
-BT
-/F3 10 Tf
-40 165 Td
-(• Built software and machine learning components for internal tools and automation; presented technical options to mixed) Tj
-ET
-BT
-/F3 10 Tf
-40 150 Td
-(business and engineering audiences.) Tj
-ET
-BT
-/F2 11 Tf
-40 120 Td
-(IT Consultant, Automation & Infrastructure) Tj
-ET
-BT
-/F3 10 Tf
-400 120 Td
-(May 2022 – Oct 2022) Tj
-ET
-BT
-/F3 10 Tf
-40 105 Td
-(Rutgers University, Office of Information Technology) Tj
-ET
-BT
-/F3 10 Tf
-40 85 Td
-(• Built a self-service platform for students to reserve lab computers and seats in advance, replacing first-come lines and wasted) Tj
-ET
-BT
-/F3 10 Tf
-40 70 Td
-(trips to full labs and libraries and making peak-hour capacity far more efficient.) Tj
-ET
-BT
-/F3 10 Tf
-40 50 Td
-(Additional programs: JPMorgan Chase Technology Program, Morgan Stanley Audit Technology, Palantir Launch.) Tj
-ET
-BT
-/F2 12 Tf
-40 20 Td
-(PROJECTS) Tj
-ET
-BT
-/F2 11 Tf
-40 0 Td
-(Viazovska Fields Medal Sphere Packing Simulator) Tj
-ET
-BT
-/F3 10 Tf
-40 -15 Td
-(• Interactive animations and dashboard that make Maryna Viazovska's Fields Medal-winning sphere packing proof (E8 and) Tj
-ET
-BT
-/F3 10 Tf
-40 -30 Td
-(Leech lattices) tangible. github.com/het4rk/viazovska-fields-simulator) Tj
-ET
-BT
-/F2 11 Tf
-40 -50 Td
-(Ordowski's Conjecture on Squares Modulo n (OEIS A000224)) Tj
-ET
-BT
-/F3 10 Tf
-40 -65 Td
-(• AI-assisted partial proof of an open conjecture from Google DeepMind's formal-conjectures list, machine-verified in Lean 4) Tj
-ET
-BT
-/F3 10 Tf
-40 -80 Td
-(with a paper. github.com/het4rk/ordowski-a224) Tj
-ET
-BT
-/F2 11 Tf
-40 -100 Td
-(Machine-Verified Proofs of Open OEIS Conjectures) Tj
-ET
-BT
-/F3 10 Tf
-40 -115 Td
-(• Six more AI-assisted Lean 4 results with papers: Eldar-Ordowski (A007406) and conjectured formulas for A188866,) Tj
-ET
-BT
-/F3 10 Tf
-40 -130 Td
-(A245995, A246479, A246483, A246737. github.com/het4rk) Tj
-ET
-BT
-/F2 12 Tf
-40 -160 Td
-(EDUCATION AND CERTIFICATIONS) Tj
-ET
-BT
-/F3 10 Tf
-40 -180 Td
-(B.Sc. Computer Science and Business Administration, Rutgers University) Tj
-ET
-BT
-/F3 10 Tf
-400 -180 Td
-(2020 – May 2024) Tj
-ET
-BT
-/F3 10 Tf
-40 -200 Td
-(AWS Certified Cloud Practitioner; Microsoft Azure Fundamentals (AZ-900); Microsoft Azure AI Fundamentals (AI-900).) Tj
-ET
-BT
-/F2 12 Tf
-40 -230 Td
-(INTERESTS) Tj
-ET
-BT
-/F3 10 Tf
-40 -250 Td
-(Capital markets, market microstructure, derivatives, decentralized exchanges (particularly Hyperliquid), 24/7 trading) Tj
-ET
-BT
-/F3 10 Tf
-40 -265 Td
-(infrastructure, and real-world asset tokenization.) Tj
-ET
-BT
-/F3 10 Tf
-40 -280 Td
-(AI-assisted mathematical research, formal verification, and applications of AI in scientific discovery.) Tj
-ET
-endstream
+Gau`Vfll+>&q0LUeC-gWO>-ASGo9e_@sPG@810T@]sN;:fb&ahYt10&k1cf6)ZW0\L7BKZkX`aWM-d3_DV_nSO9Ht[=mFm("*hG22t&?&CfmjUEX`hNa"Ul7qY\KN8%L#M/e,hH%*Q(A56Aa2"4slpE!"d8,:M0IE$;8h)ct.#>oTl,f!T?ue[BiME#j>=9]4h2Y??,[M[eFRL?5&3r$P0^7\C@n_67-3m(fhf:E-XHULe\Q8%T[jm<Ep\b;)E\n/+l>^bQ@SN%rja\V>_sX(ll`2L0Eqip-o@IY>mse)(\pK\*&R=io@YCB.r&_5.kLqDWr?Z)<.k:STV&p-%"l2sQ(D^Xa89W=d<ip[Q--WQ;8g,'"V!7c\L[!ftT0MgEiWWAurSD'tE,c%.PAHIE:^_"@V0B[P4UE7)E-2@b$+(_.=R:/5C;^NTnKh_QtaISV&'n_qN,DLV-!X'Eoo^iO>iRDRtBR_BTr8_Z,7nEsKI"GRe/]=1>`ioArN'g/[t.i+%j%1AR^[?,Zf(l1,Fk&Cj>k[ra[$=;`5R"NJ;P\2t4-K#D@(8[rhbg)9B-tUiFFTj9u_L#G::!UR2:"XENesi%l]^sO%/CuEh?^]WoJ47:a_,Bfg=!2O>S#Vbl0-Lp-/8ocY2hAPNH'L.mnPrMES6$Gir,X)TAIqS;-(reX>f81IW]SK/=Iqc/AVhg6$hS$V4;G4cYdfq-*m`HJ0HN,Z:V-.>dk`h:N5R;ML,L-rXD#r]Y_]]*B\;(bZ<<?I>Z>Aof`5))^0[/3_'-stX>^0883E%X?ZO@a3^,&^N>lGr#947D$a7qL]\OW)-r[[j1WCR#4-<qVcO'2m*uuFV`jZ?c.sPZjUE*4AQi#.6Lo_U0T"TpK1s06uYM!)FjX52,@87g#diQ\4c*$k3V?t7#@sL.M14[pUQ6"*ji>H+,NAk<a#F]F/D`"Kj\G$gnH)g%D6o!>41q6j/(iJskYB8G-n(Jc6kEX"l<V&n\(16C&%?AXnRV5;W)6uQS&tLgrAU1s]jXnQJ(0R.$"(+mq9ik%1e*#rQD6h<3g_#*QlpjQI)';:;T@j#\0T0F7g6sE$kslhfV8uQ>9N-*\4.l/mA-j9=53b`)L8>?b6Rp[_j+6l?_`"-/TOl.SJlhi0F>7,RM6AWbZelN33"b5#\Z0*3<<[EfF&(o06!?LA_"$qd+2;RGGh4YOmhmQernm>C`R4VUE'D"<D>;uZdZ0*G/'nU"[,TZaQ>JU1.i7q]?/+iMFf'dS'm4I,[BT8Y$bN!E\@uSdet4g8YYEl+9AB1!*:!jhCWBGeLU'%;,7VNprOjR"XuE3qjI-E7&`SS[Y2eAUmCtbcQJrE]fCJM*=O>jE1=51\3-Ve6[b!HBR.ld5)t(#G[FFmu-]2`6OB"Ho=hRI5SLUkf+,B3Kn04-ARb1aP.;&sDP#'*7BVc40AVI*_lI(YQi^R<1fe7e$YUX3BX<SGm"k4Jj$gUM76KlNp:5PrA+d@B1@+F0Ag3"W:5\OqPE/]`Cemot!(%UEX9.(KjXYh"2h`%:f7>$3_h2FZZ^g?:A'8W!"?ris_d-k(3;3Gh?E$;J=d/da6&]7*a4>$"lLip[LR_3bWro][)k=WNaqS;dS*%H!#MFeVEc<I/$kC/DgFba^_<bh7>BJEru.jLc:]+XF!2Z)QMN(0'+KE"K(M!i-Hc()\S5%AOSO^EC:3e2cTcq[Z''F+FA!a!%KjZ$]''gR=P`n4jK;B)H)CQF=TS3ti0#M^!V"6lrj$o6^[p]M411K7IFU#\@2C/\m&hc<:nGYrt*j#9)c"kM^J+`FV_8:WQG3*KB.O:[\%B^DSkOK&LKI\=e$`=oQ8q6Z;Z8I`n4GM.R:^Ztbl*=J#?3Y%Pd[na:fRE@6YE#hFXl"JSI:?3>Eb<#<dPr1$3h2l@MVpi#Sd=MX0Mqj<jmcn[?ndoF?Gq`=4Yn`&XbsM*:U.4[\D&aMS/'O8R')%pIdSTIa`r),r*cYO()544ppR_S>iAj\80!"i7@.ORtNi@0dF6eY/Ps7RSTLa/u58\51Z,oSW3*O>/U;m#;NcBHmn>#0p0r&W0?PoPV)j)<q\nDYJ158[>e!qlmd39a8OL[th.Y-e2JXWN@b-ZkEcP8ZSZ7;,qBtQ$n\n+`HcbpWko_@d"R/7<8RRCG-4G$JOmo8rX-amg#:IaTr&e<=W-EWOSSb:$VIiqKf,st^L<."HU]HWL_K\L\)'6ZkO[5D:::jC@e7du:^GYc<E78pB];1?Ze>H^GC2hA<c8g&%^H,\6ArR>KK)o0(jf[sV?]Ppm"i+=CLdab]kWCMa.["-#6<B#a92Bn?(955$mD?Y<sHdfd33)b,1S*q;NTVTaI>Xi"6Y!e-3*lm;/K!LhaMng1&]IlXH[TGD$9'be?WOOE\.G?d"];G6.cE=&aXI"$%LKi8PYX/M[8^'q)i=M'Xpi_Jic/4j%G$l5^rOonZgUhQX.I7A)7'sEO=I2mEAUA=r5+\CF2?XLK%#)P61XsRpX9l69(78>U^VfETKa.]-E6_A*4&NjL_c!u^5IH7X$D-^$i;DU$j8<jVH66jJfOG-3H7rYNUZn6:"PW]PYcmVp\n:G<n2.-&KI7V>7Bth$9!_VCD':\"nRVHW]:qKSXDZAQo;UbS7M+52^mG?[;Vp2Nk"Sq"]P4doP5B^Eo*5f"qmY"1;C9oU;TkGcCtONIC3(\(RHV'fF.'oP/+7K_I5$,KG/>uI'tGftPn$I7L'<bJq=aAe*n&1oLE(A/%-3G[7M;aS?NXob>$Roa]nMHdn:H'n?q$c?&UbkOcH68oY%rT$_a=0s^8e$LB^rW!4b6*ljdo)cnN^aYUBSk8'2+b*F*I4Td(-$/;ga'/FL&;rb&I5rj3.j8_m:HAO8c7H__-mVQVTIA@8YTBF"P61^KI^c._:i-r2hSrIZ\ZAEd5WME?au7#:7qV`7]<AKdEW`*RcLN.Frcq.@<qG46F&W]@2pOjXaNMb>Epq!P0E/#;G$l9`'\A3b^2E[BoLqgn5Sb1NJ)ae/!>[F/$g$YU\AC(og&EKKSZ^0+4P/pnDoK&5P@4,^*#7<k:4i;6GA"H((sXg>t/g/7r\URQe$:mPI!i-OO)!ft&Dq=^`0Drq:c`b]^ZJnk_'qY3uQlqb-/:?NMSla-7;U@JGf5r9lficB^t5V_C2\#D_o/jjErMrQ/`$\*+>M_Ip">Q>%5a2ClMV9c.K]>@S9F[J.QPGUW$QntmNb9KN(%,]$:Nh6+-0b6Z-X8.<>uh\A9)X3?%1XQN-5MA$Iufaor9Br8f=o&om'S`"p[-VW>kV=Y7+p;]!Fc-+]L#L8>NN'5U!7j/gRL2T<:S#N13jd]YQNT(W5Hs`qG$(nAYZo&noa0'<(s0uIbrdp+o3P+OC-]fIIhl+#7FE>T7oQR;666cO1-/P<+iT,Des'hdm1;/;NG=Y]4ptU\do(<-%pJ!n++-PUEXk;m]oc72W8T2^+9`U"]NN)"sn(s.bh_:Ee'Klc&"7FFt/Nq3F\eCc\P?r3(g,]\S)TQ^/Wb[lo8D=YSad^Ze3)lm]UnQO%$hqsIYPo&FePd+~>endstream
 endobj
 xref
 0 20

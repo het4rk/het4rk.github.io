@@ -1,1 +1,356 @@
-JVBERi0xLjQKJZOMi54gUmVwb3J0TGFiIEdlbmVyYXRlZCBQREYgZG9jdW1lbnQgKG9wZW5zb3VyY2UpCjEgMCBvYmoKPDwKL0YxIDIgMCBSIC9GMiAzIDAgUiAvRjMgNCAwIFIgL0Y0IDggMCBSCj4+CmVuZG9iagoyIDAgb2JqCjw8Ci9CYXNlRm9udCAvSGVsdmV0aWNhIC9FbmNvZGluZyAvV2luQW5zaUVuY29kaW5nIC9OYW1lIC9GMSAvU3VidHlwZSAvVHlwZTEgL1R5cGUgL0ZvbnQKPj4KZW5kb2JqCjMgMCBvYmoKPDwKL0Jhc2VGb250IC9UaW1lcy1Cb2xkIC9FbmNvZGluZyAvV2luQW5zaUVuY29kaW5nIC9OYW1lIC9GMiAvU3VidHlwZSAvVHlwZTEgL1R5cGUgL0ZvbnQKPj4KZW5kb2JqCjQgMCBvYmoKPDwKL0Jhc2VGb250IC9UaW1lcy1Sb21hbiAvRW5jb2RpbmcgL1dpbkFuc2lFbmNvZGluZyAvTmFtZSAvRjMgL1N1YnR5cGUgL1R5cGUxIC9UeXBlIC9Gb250Cj4+CmVuZG9iago1IDAgb2JqCjw8Ci9BIDw8Ci9TIC9VUkkgL1R5cGUgL0FjdGlvbiAvVVJJIChtYWlsdG86aGV0YXJrOUBnbWFpbC5jb20pCj4+IC9Cb3JkZXIgWyAwIDAgMCBdIC9SZWN0IFsgMjg5Ljk0MjMgNzI2LjY0IDM3NC4wOTMzIDczOSBdIC9TdWJ0eXBlIC9MaW5rIC9UeXBlIC9Bbm5vdAo+PgplbmRvYmoKNiAwIG9iago8PAovQSA8PAovUyAvVVJJIC9UeXBlIC9BY3Rpb24gL1VSSSAoaHR0cHM6Ly9saW5rZWRpbi5jb20vaW4vaGV0YXJrKQo+PiAvQm9yZGVyIFsgMCAwIDAgXSAvUmVjdCBbIDM4Ny45OTgzIDcyNi42NCA0ODEuNTUzMiA3MzkgXSAvU3VidHlwZSAvTGluayAvVHlwZSAvQW5ub3QKPj4KZW5kb2JqCjcgMCBvYmoKPDwKL0EgPDwKL1MgL1VSSSAvVHlwZSAvQWN0aW9uIC9VUkkgKGh0dHBzOi8vZ2l0aHViLmNvbS9oZXQ0cmspCj4+IC9Cb3JkZXIgWyAwIDAgMCBdIC9SZWN0IFsgNDk1LjQ1ODIgNzI2LjY0IDU3MS4yNzY1IDczOSBdIC9TdWJ0eXBlIC9MaW5rIC9UeXBlIC9Bbm5vdAo+PgplbmRvYmoKOCAwIG9iago8PAovQmFzZUZvbnQgL1RpbWVzLUl0YWxpYyAvRW5jb2RpbmcgL1dpbkFuc2lFbmNvZGluZyAvTmFtZSAvRjQgL1N1YnR5cGUgL1R5cGUxIC9UeXBlIC9Gb250Cj4+CmVuZG9iago5IDAgb2JqCjw8Ci9BIDw8Ci9TIC9VUkkgL1R5cGUgL0FjdGlvbiAvVVJJIChodHRwczovL2dpdGh1Yi5jb20vaGV0NHJrL3ZpYXpvdnNrYS1maWVsZHMtc2ltdWxhdG9yKQo+PiAvQm9yZGVyIFsgMCAwIDAgXSAvUmVjdCBbIDQwIDIzNi40MSAyNjIuODkyIDI0OC43NyBdIC9TdWJ0eXBlIC9MaW5rIC9UeXBlIC9Bbm5vdAo+PgplbmRvYmoKMTAgMCBvYmoKPDwKL0EgPDwKL1MgL1VSSSAvVHlwZSAvQWN0aW9uIC9VUkkgKGh0dHBzOi8vZ2l0aHViLmNvbS9oZXQ0cmsvdmlhem92c2thLWZpZWxkcy1zaW11bGF0b3IpCj4+IC9Cb3JkZXIgWyAwIDAgMCBdIC9SZWN0IFsgNDAxLjc3MjggMjM2LjQxIDU3MiAyNDguNzcgXSAvU3VidHlwZSAvTGluayAvVHlwZSAvQW5ub3QKPj4KZW5kb2JqCjExIDAgb2JqCjw8Ci9BIDw8Ci9TIC9VUkkgL1R5cGUgL0FjdGlvbiAvVVJJIChodHRwczovL2dpdGh1Yi5jb20vaGV0NHJrL29yZG93c2tpLWEyMjQpCj4+IC9Cb3JkZXIgWyAwIDAgMCBdIC9SZWN0IFsgNDAgMTk4LjIxNSAzMTMuODI1NSAyMTAuNTc1IF0gL1N1YnR5cGUgL0xpbmsgL1R5cGUgL0Fubm90Cj4+CmVuZG9iagoxMiAwIG9iago8PAovQSA8PAovUyAvVVJJIC9UeXBlIC9BY3Rpb24gL1VSSSAoaHR0cHM6Ly9naXRodWIuY29tL2hldDRyay9vcmRvd3NraS1hMjI0KQo+PiAvQm9yZGVyIFsgMCAwIDAgXSAvUmVjdCBbIDQ0NS4xNjY2IDE5OC4yMTUgNTcyIDIxMC41NzUgXSAvU3VidHlwZSAvTGluayAvVHlwZSAvQW5ub3QKPj4KZW5kb2JqCjEzIDAgb2JqCjw8Ci9BIDw8Ci9TIC9VUkkgL1R5cGUgL0FjdGlvbiAvVVJJICho
+%PDF-1.4
+%     ReportLab Generated PDF document (opensource)
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 8 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Times-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/BaseFont /Times-Roman /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+5 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (mailto:hetark9@gmail.com)
+>> /Border [ 0 0 0 ] /Rect [ 289.9423 726.64 374.0933 739 ] /Subtype /Link /Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://linkedin.com/in/hetark)
+>> /Border [ 0 0 0 ] /Rect [ 387.9983 726.64 481.5532 739 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/het4rk)
+>> /Border [ 0 0 0 ] /Rect [ 495.4582 726.64 571.2765 739 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Times-Italic /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/het4rk/viazovska-fields-simulator)
+>> /Border [ 0 0 0 ] /Rect [ 40 236.41 262.892 248.77 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/het4rk/viazovska-fields-simulator)
+>> /Border [ 0 0 0 ] /Rect [ 401.7728 236.41 572 248.77 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/het4rk/ordowski-a224)
+>> /Border [ 0 0 0 ] /Rect [ 40 198.215 313.8255 210.575 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/het4rk/ordowski-a224)
+>> /Border [ 0 0 0 ] /Rect [ 445.1666 198.215 572 210.575 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/het4rk)
+>> /Border [ 0 0 0 ] /Rect [ 40 160.02 269.7209 172.38 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/het4rk)
+>> /Border [ 0 0 0 ] /Rect [ 503.5427 160.02 572 172.38 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/Annots [ 5 0 R 6 0 R 7 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R ] /Contents 19 0 R /MediaBox [ 0 0 612 792 ] /Parent 18 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> /Type /Page
+>>
+endobj
+16 0 obj
+<<
+/PageMode /UseNone /Pages 18 0 R /Type /Catalog
+>>
+endobj
+17 0 obj
+<<
+/Author (Hetark Shah) /CreationDate (D:20261105180000) /Creator (ReportLab PDF Library) /Producer (ReportLab PDF Library) /Title (Hetark Shah Resume) /Subject (Resume)
+>>
+endobj
+18 0 obj
+<<
+/Count 1 /Kids [ 15 0 R ] /Type /Pages
+>>
+endobj
+19 0 obj
+<<
+/Length 6505
+>>
+stream
+BT
+/F2 18 Tf
+40 740 Td
+(Hetark Shah) Tj
+ET
+BT
+/F3 10 Tf
+40 720 Td
+(East Brunswick, NJ (NYC Metro Area)  •  732-762-9889  •  hetark9@gmail.com  •  linkedin.com/in/hetark  •  github.com/het4rk) Tj
+ET
+BT
+/F2 12 Tf
+40 690 Td
+(SUMMARY) Tj
+ET
+BT
+/F3 10 Tf
+40 670 Td
+(Client-facing Solutions Architect with experience implementing enterprise API products for Fortune 500 healthcare) Tj
+ET
+BT
+/F3 10 Tf
+40 655 Td
+(organizations. Specializes in customer discovery, translating business requirements into technical solutions, and coordinating) Tj
+ET
+BT
+/F3 10 Tf
+40 640 Td
+(delivery across engineering, product, and commercial teams. Computer Science and Business Administration background with a) Tj
+ET
+BT
+/F3 10 Tf
+40 625 Td
+(strong interest in capital markets and financial technology.) Tj
+ET
+BT
+/F2 12 Tf
+40 590 Td
+(SKILLS) Tj
+ET
+BT
+/F3 10 Tf
+40 570 Td
+(Client Engagement: Enterprise stakeholder management, technical discovery, solution demonstrations, requirements gathering,) Tj
+ET
+BT
+/F3 10 Tf
+40 555 Td
+(customer relationship management.) Tj
+ET
+BT
+/F3 10 Tf
+40 535 Td
+(Solution Delivery: Systems integration, solution architecture, enterprise implementations, workflow optimization,) Tj
+ET
+BT
+/F3 10 Tf
+40 520 Td
+(cross-functional coordination.) Tj
+ET
+BT
+/F3 10 Tf
+40 500 Td
+(Commercial: Account expansion, sales collaboration, customer adoption, business value alignment.) Tj
+ET
+BT
+/F3 10 Tf
+40 480 Td
+(Technologies: REST APIs, AWS, Microsoft Azure, generative AI, LLM workflows.) Tj
+ET
+BT
+/F2 12 Tf
+40 445 Td
+(EXPERIENCE) Tj
+ET
+BT
+/F2 11 Tf
+40 420 Td
+(Solutions Architect) Tj
+ET
+BT
+/F3 10 Tf
+400 420 Td
+(Aug 2024 – Present) Tj
+ET
+BT
+/F3 10 Tf
+40 405 Td
+(Cognizant, Healthcare Products (TriZetto)) Tj
+ET
+BT
+/F3 10 Tf
+40 385 Td
+(• Manage post-sales implementation across 10+ enterprise deployments at leading U.S. health insurers and provider) Tj
+ET
+BT
+/F3 10 Tf
+40 370 Td
+(organizations, from solution design through production go-live in regulated environments processing millions of transactions.) Tj
+ET
+BT
+/F3 10 Tf
+40 350 Td
+(• Serve as the direct technical point of contact for 15+ client accounts and ~30 client teams, leading discovery sessions, solution) Tj
+ET
+BT
+/F3 10 Tf
+40 335 Td
+(demonstrations, and stakeholder discussions that turn ambiguous requirements into clear solution designs.) Tj
+ET
+BT
+/F3 10 Tf
+40 315 Td
+(• Coordinate a dozen API integrations and dozens of workflows between healthcare platforms and client systems, aligning) Tj
+ET
+BT
+/F3 10 Tf
+40 300 Td
+(client, product, and engineering teams on requirements, data mapping, and go-live.) Tj
+ET
+BT
+/F3 10 Tf
+40 280 Td
+(• Develop AI-powered automations to streamline enterprise healthcare implementations, using open-source agents and LLMs) Tj
+ET
+BT
+/F3 10 Tf
+40 265 Td
+(within approved development and production environments.) Tj
+ET
+BT
+/F3 10 Tf
+40 245 Td
+(• Partner with sales and account teams to identify customer needs, uncover expansion opportunities, and communicate business) Tj
+ET
+BT
+/F3 10 Tf
+40 230 Td
+(value to client stakeholders.) Tj
+ET
+BT
+/F2 11 Tf
+40 200 Td
+(Software / ML Engineering Intern) Tj
+ET
+BT
+/F3 10 Tf
+400 200 Td
+(Jun 2023 – Aug 2023) Tj
+ET
+BT
+/F3 10 Tf
+40 185 Td
+(Cognizant) Tj
+ET
+BT
+/F3 10 Tf
+40 165 Td
+(• Built software and machine learning components for internal tools and automation; presented technical options to mixed) Tj
+ET
+BT
+/F3 10 Tf
+40 150 Td
+(business and engineering audiences.) Tj
+ET
+BT
+/F2 11 Tf
+40 120 Td
+(IT Consultant, Automation & Infrastructure) Tj
+ET
+BT
+/F3 10 Tf
+400 120 Td
+(May 2022 – Oct 2022) Tj
+ET
+BT
+/F3 10 Tf
+40 105 Td
+(Rutgers University, Office of Information Technology) Tj
+ET
+BT
+/F3 10 Tf
+40 85 Td
+(• Built a self-service platform for students to reserve lab computers and seats in advance, replacing first-come lines and wasted) Tj
+ET
+BT
+/F3 10 Tf
+40 70 Td
+(trips to full labs and libraries and making peak-hour capacity far more efficient.) Tj
+ET
+BT
+/F3 10 Tf
+40 50 Td
+(Additional programs: JPMorgan Chase Technology Program, Morgan Stanley Audit Technology, Palantir Launch.) Tj
+ET
+BT
+/F2 12 Tf
+40 20 Td
+(PROJECTS) Tj
+ET
+endstream
+endobj
+xref
+0 20
+0000000000 65535 f 
+0000000061 00000 n 
+0000000122 00000 n 
+0000000229 00000 n 
+0000000337 00000 n 
+0000000446 00000 n 
+0000000615 00000 n 
+0000000790 00000 n 
+0000000960 00000 n 
+0000001070 00000 n 
+0000001263 00000 n 
+0000001459 00000 n 
+0000001643 00000 n 
+0000001828 00000 n 
+0000001996 00000 n 
+0000002165 00000 n 
+0000002432 00000 n 
+0000002502 00000 n 
+0000002786 00000 n 
+0000002847 00000 n 
+trailer
+<<
+/ID 
+[<7fc9e17f139b065188f42803d86b2df3><7fc9e17f139b065188f42803d86b2df3>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 17 0 R
+/Root 16 0 R
+/Size 20
+>>
+startxref
+6505
+%%EOF
